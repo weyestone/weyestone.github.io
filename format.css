@@ -1,19 +1,25 @@
-#tabs {
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-}
-#tabs .help {
-	display: inline-block;
-	margin-right: 20px;
-}
-.indent {
-	text-indent: 2.0em;
-}
-.tvimage {
-	disply: table-cell;
-	height: 300px;
-	text-align: center;
-	width: 600px;
-	vertical-align: middle;
-}
+<style>
+	body { 
+		background: rgba(183,133,136,255);
+		font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	}
+
+	#tabs {
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+	}
+	#tabs .help {
+		display: inline-block;
+		margin-right: 20px;
+	}
+	.indent {
+		text-indent: 2.0em;
+	}
+	.tvimage {
+		disply: table-cell;
+		height: 300px;
+		text-align: center;
+		width: 600px;
+		vertical-align: middle;
+	}
