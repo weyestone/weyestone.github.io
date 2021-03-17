@@ -10,3 +10,9 @@
 .indent {
 	text-indent: 2.0em;
 }
+#tvimage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
