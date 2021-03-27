@@ -2,11 +2,19 @@
 	body {
 	font-family:  Helvetica Neue, Helvetica, Arial, sans-serif;
 	background-color: #413E4A;
-	color: white;
+	color: #F7E4BE;
 }
 	ul li::before {
-		color: white;
+		color: #F7E4BE;
 	}
+	h1 {
+		background-color: #413E4A;
+		color: #F0B49E;
+	}
+	h2 {
+		background-color: #413E4A;
+		color: #F0B49E;
+	}	
 	#tabs {
 		margin: 0;
 		padding: 0;
