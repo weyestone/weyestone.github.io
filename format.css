@@ -4,10 +4,6 @@
 	background-color: #413E4A;
 	color: #F7E4BE;
 }
-	ul li::before {
-		background-color: #413E4A;
-		color: #F7E4BE;
-	}
 	h1 {
 		background-color: #413E4A;
 		color: #F0B49E;
