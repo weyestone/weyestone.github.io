@@ -32,9 +32,16 @@
 		margin-right: auto;
 		width: 50%
 	}
-	#weddingimg {
-		text-align: center;
+	.wedrow {
+		float: left;
+		width: 50%;
+		padding: 5px;
 	}
+	.weddingimg::after {
+		content: "";
+		clear: both;
+		display: table;
+	}	
 	.photoimg {
 		border: 5px solid #555;
 	}
