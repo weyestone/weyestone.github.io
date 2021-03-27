@@ -32,6 +32,9 @@
 		margin-right: auto;
 		width: 50%
 	}
+	#weddingimg {
+		text-align: center;
+	}
 	.photoimg {
 		border: 5px solid #555;
 	}
