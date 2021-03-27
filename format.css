@@ -32,3 +32,6 @@
 		margin-right: auto;
 		width: 50%
 	}
+	.photoimg {
+		border: 5px solid #555;
+	}
