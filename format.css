@@ -1,9 +1,12 @@
 <style>
-	body { 
-		background-color:#F7E4BE;
-		font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-	}
 
+	body {
+	font-family:  Helvetica Neue, Helvetica, Arial, sans-serif;
+	background-color: #12475f !important;
+	color: #fff;
+	line-height: 1.6;
+	text-align: center;
+}
 	#tabs {
 		margin: 0;
 		padding: 0;
