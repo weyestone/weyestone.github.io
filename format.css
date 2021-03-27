@@ -5,6 +5,7 @@
 	color: #F7E4BE;
 }
 	ul li::before {
+		content: "\2022";
 		background-color: #413E4A;
 		color: #F7E4BE;
 	}
