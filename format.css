@@ -24,11 +24,11 @@
 		margin: 0;
 		padding: 0;
 		list-style-type: none;
-		color: #F7E4BE;
 	}
 	#tabs .help {
 		display: inline-block;
 		margin-right: 20px;
+		color: #F7E4BE;
 	}
 	.indent {
 		text-indent: 2.0em;
