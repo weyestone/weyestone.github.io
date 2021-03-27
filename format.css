@@ -20,7 +20,7 @@
 		text-indent: 2.0em;
 	}
 	.tvimage {
-		disply: table-cell;
+		display: table-cell;
 		height: 300px;
 		text-align: center;
 		width: 600px;
