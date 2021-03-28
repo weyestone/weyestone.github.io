@@ -12,11 +12,11 @@
 		background-color: #413E4A;
 		color: #F0B49E;
 	}
-	.help {
+	.help li {
 		background-color: #413E4A;
 		color: #F7E4BE;
 	}
-	ul {
+	ul li {
 		color: #F7E4BE;
 	}
 	#tabs {
