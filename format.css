@@ -16,6 +16,9 @@
 		background-color: #413E4A;
 		color: #F7E4BE;
 	}
+	ul li::before {
+		color: #F7E4BE;
+	}
 	#tabs {
 		margin: 0;
 		padding: 0;
