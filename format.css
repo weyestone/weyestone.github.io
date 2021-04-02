@@ -47,12 +47,12 @@
 		margin-right: auto;
 		width: 50%
 	}
-	.wedrow {
+	.wedcolumn {
 		float: left;
 		width: 50%;
 		padding: 5px;
 	}
-	.weddingimg::after {
+	.weddingrow::after {
 		content: "";
 		clear: both;
 		display: table;
@@ -73,3 +73,10 @@
 		margin-top: 8px;
 		vertical-align: middle;
 	}	
+	.dogimg {
+		position: absolute;
+		right: 0px; 
+		width: 300px;
+		border: 1px;
+		padding: 10px;
+	}
