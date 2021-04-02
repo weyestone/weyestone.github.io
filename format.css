@@ -44,12 +44,6 @@
 		padding: .5em 1 em;
 		margin: .5em;
 		color: #F7E4BE;
-	ul { 
-		border: 1px;
-		padding-right: 0px;
-		padding-left: 28px;
-		width: 50px;
-		border-radius: 5px;
 	}
 	.indent {
 		text-indent: 2.0em;
