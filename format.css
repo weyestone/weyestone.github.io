@@ -19,6 +19,10 @@
 		box-sizing: inherit;
 		list-style-type: none;
 	}
+	#tabs .help {
+		display: inline-block;
+		margin-right: 20px;
+	}
 	.indent {
 		text-indent: 2.0em;
 	}
