@@ -12,6 +12,10 @@
 		background-color: #413E4A;
 		color: #F0B49E;
 	}
+	#tabs .help {
+		display: inline-block;
+		margin-right: 20px;
+	}
 	.indent {
 		text-indent: 2.0em;
 	}
