@@ -48,9 +48,6 @@
 		margin-left: auto;
 		margin-right: auto;
 		width: 50%
-	}
-	.weddingrow::after {
-		text-align: center;
 	}	
 	.photoimg {
 		border: 5px solid #555;
@@ -69,11 +66,7 @@
 		vertical-align: middle;
 	}	
 	.dogimg {
-		box-sizing: border-box;
-		box-sizing: inherit;
-		margin-right: 2.5em; 
-		right: 0px; 
-		width: 300px;
+		float: left;
 		border: 1px;
 		padding: 10px;
 	}
