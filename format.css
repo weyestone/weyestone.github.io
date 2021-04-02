@@ -23,6 +23,24 @@
 		display: inline-block;
 		margin-right: 20px;
 	}
+	.help li {
+		background-color: #413E4A;
+		color: #F7E4BE;
+		box-sizing: border-box;
+		box-sizing: inherit;
+		padding: 1em;
+	}
+	#tabs {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		box-sizing: inherit;
+		list-style-type: none;
+	}
+	#tabs .help {
+		display: inline-block;
+		margin-right: 20px;
+	}
 	.indent {
 		text-indent: 2.0em;
 	}
