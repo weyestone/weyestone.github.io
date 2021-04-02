@@ -12,9 +12,12 @@
 		background-color: #413E4A;
 		color: #F0B49E;
 	}
-	#tabs .help {
-		display: inline-block;
-		margin-right: 20px;
+	#tabs {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		box-sizing: inherit;
+		list-style-type: none;
 	}
 	.indent {
 		text-indent: 2.0em;
