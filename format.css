@@ -19,14 +19,14 @@
 		box-sizing: inherit;
 		padding: 1em;
 	}
-	nav ul {
+	#tabs nav ul {
 		margin: 0;
 		padding: 0; 
 		list-style-type: none;
 		display: flex;
 		justify-content: center;
 	}	
-	nav ul li a {
+	#tabs nav ul li a {
 		display: block;
 		border: 1px solid;
 		border-radius: .5em;
