@@ -76,7 +76,9 @@
 		vertical-align: middle;
 	}	
 	.dogimg {
-		margin-right: 2.5em; 
+		box-sizing: border-box;
+		box-sizing: inherit;
+		margin-left: 2.5em; 
 		right: 0px; 
 		width: 300px;
 		border: 1px;
