@@ -49,15 +49,8 @@
 		margin-right: auto;
 		width: 50%
 	}
-	.wedcolumn {
-		float: center;
-		width: 50%;
-		padding: 5px;
-	}
 	.weddingrow::after {
-		content: "";
-		clear: both;
-		display: table;
+		text-align: center;
 	}	
 	.photoimg {
 		border: 5px solid #555;
