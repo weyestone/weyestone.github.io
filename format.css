@@ -30,16 +30,26 @@
 		box-sizing: inherit;
 		padding: 1em;
 	}
-	#tabs {
+	#tabs nav ul {
 		margin: 0;
-		padding: 0;
-		box-sizing: border-box;
-		box-sizing: inherit;
+		padding: 0; 
 		list-style-type: none;
-	}
-	#tabs .help {
-		display: inline-block;
-		margin-right: 20px;
+		display: flex;
+		justify-content: center;
+	}	
+	#tabs nav ul li a {
+		display: block;
+		border: 1px solid;
+		border-radius: .5em;
+		padding: .5em 1 em;
+		margin: .5em;
+		color: #F7E4BE;
+	ul { 
+		border: 1px;
+		padding-right: 0px;
+		padding-left: 28px;
+		width: 50px;
+		border-radius: 5px;
 	}
 	.indent {
 		text-indent: 2.0em;
